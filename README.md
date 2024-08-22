@@ -89,7 +89,8 @@ Below are the solutions to LeetCode problems solved in August 2024, organized by
 - **August 21, 2024**
   - [August_21](August_21.cpp)
  
-
+- **August 22, 2024**
+  - [August_22](August_22.cpp)
 
 ## Usage
 
