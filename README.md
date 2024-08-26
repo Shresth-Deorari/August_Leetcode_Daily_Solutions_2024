@@ -100,7 +100,10 @@ Below are the solutions to LeetCode problems solved in August 2024, organized by
 
 - **August 25, 2024**
   - [August_25](August_25.cpp)
- 
+
+ - **August 26, 2024**
+  - [August_26](August_26.cpp)
+
 ## Usage
 
 Since this repository contains only the function implementations, you can copy the relevant function into the LeetCode online editor to test it. 
