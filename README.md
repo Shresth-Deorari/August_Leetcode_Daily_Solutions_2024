@@ -102,16 +102,16 @@ Below are the solutions to LeetCode problems solved in August 2024, organized by
   - [August_25](August_25.cpp)
 
  - **August 26, 2024**
-  - [August_26](August_26.cpp)
+   - [August_26](August_26.cpp)
 
  - **August 27, 2024**
-  - [August_27](August_27.cpp)
+   - [August_27](August_27.cpp)
 
  - **August 28, 2024**
-  - [August_28](August_28.cpp)
+   - [August_28](August_28.cpp)
 
  - **August 29, 2024**
-  - [August_29](August_29.cpp)
+   - [August_29](August_29.cpp)
 
 ## Usage
 
