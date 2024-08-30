@@ -113,6 +113,9 @@ Below are the solutions to LeetCode problems solved in August 2024, organized by
  - **August 29, 2024**
    - [August_29](August_29.cpp)
 
+ - **August 30, 2024**
+   - [August_30](August_30.cpp)
+
 ## Usage
 
 Since this repository contains only the function implementations, you can copy the relevant function into the LeetCode online editor to test it. 
